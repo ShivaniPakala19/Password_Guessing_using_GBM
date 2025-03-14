@@ -1,0 +1,15 @@
+*.pkg
+*.exe
+_*.txt
+_*.md
+*.clf
+dist
+dist/
+ScreenShots
+Journal.md
+_requirements_bak.txt
+.vscode
+.idea
+build
+*.jar
+**/__pycache__
